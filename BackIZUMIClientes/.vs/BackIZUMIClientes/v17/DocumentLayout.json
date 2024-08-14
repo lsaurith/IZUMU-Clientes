@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\IZUMI Clientes\\BackIZUMIClientes\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-11T17:33:59.178Z",
               "EditorCaption": ""
@@ -123,8 +123,7 @@
               "RelativeToolTip": "Controllers\\ClientesController.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAkwD8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T22:01:50.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T22:01:50.483Z"
             }
           ]
         }
